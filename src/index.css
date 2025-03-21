@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+*{
+    box-sizing: content-box;
+}
+    
+
+#login{
+    margin: auto;
+    background: url(../public/loginbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#login_btn{
+    
+   background: linear-gradient(to right, rgb(52, 169, 241),rgb(120, 82, 224),rgb(13, 29, 91));
+   border-radius: 20px;
+   
+  
+  
+
+}
